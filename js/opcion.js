@@ -1,2 +1,3 @@
 console.log("Hola Mundo");
-console.log("Suscribete");
+console.log("Suscribete al canal");
+
